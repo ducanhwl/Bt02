@@ -37,7 +37,7 @@ const server = http.createServer((req, res) => {
       <html lang="vi">
       <head><meta charset="UTF-8"><title>Giới thiệu</title></head>
       <body style="font-family: Arial; padding: 20px;">
-        <h1 style="color: #4CAF50;">📖 Giới thiệu bản thân</h1>
+        <h1 style="color: #4CAF50;"> Giới thiệu bản thân</h1>
         <ul>
           <li><strong>Họ tên:</strong> ${HO_TEN}</li>
           <li><strong>Mã sinh viên:</strong> ${MA_SV}</li>
